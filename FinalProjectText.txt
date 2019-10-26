@@ -1,2 +1,2 @@
 Test updated
-a = 10
+a = 5
